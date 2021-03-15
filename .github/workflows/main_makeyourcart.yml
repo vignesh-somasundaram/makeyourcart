@@ -28,5 +28,5 @@ jobs:
       with:
         app-name: 'makeyourcart'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_673574b79b7a4ad98ec06f0f2d4a8afe }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_4e5d6e9aeebb45c78c1b97962063bbad }}
         package: '${{ github.workspace }}/target/*.war'
