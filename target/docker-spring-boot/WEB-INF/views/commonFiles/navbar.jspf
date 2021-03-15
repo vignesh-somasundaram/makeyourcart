@@ -1,0 +1,15 @@
+<nav class="navbar navbar-inverse"  style="width:100%;">
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <a class="navbar-brand" href="/">MakeYourCart</a>
+        </div>
+        <ul class="nav navbar-nav">
+          <li class="${addproductactive}"><a href="/addproducts">Add Product</a></li>
+          <li class="${viewproductsactive}"><a href="/products">View Products</a></li>
+          <li class="${searchproductactive}"><a href="/findprodbyId">Search Product</a></li>
+        </ul>
+        <ul class="nav navbar-nav navbar-right">
+          <li><a href="/logout"><span class="glyphicon glyphicon-log-in"></span> Logout</a></li>
+        </ul>
+      </div>
+    </nav>

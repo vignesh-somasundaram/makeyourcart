@@ -1,0 +1,8 @@
+com\sbcomplete\application\service\ProductService.class
+com\sbcomplete\application\controller\ProductController.class
+com\sbcomplete\application\service\IProductService.class
+com\sbcomplete\application\security\SecurityConfiguration.class
+com\sbcomplete\application\Application.class
+com\sbcomplete\application\repository\ProductsRepository.class
+com\sbcomplete\application\model\Product.class
+com\sbcomplete\application\restcontroller\RestController.class
